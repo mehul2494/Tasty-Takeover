@@ -1,5 +1,2 @@
 # Tasty-Takeover
-Tasty Times is a food service company that has a fleet of food trucks located in Indianapolis, IN.
-Each food has a unique menu offering different flavors of food for every taste bud. The company
-wants to record information about the fleet of trucks, the employees and the items sold to
-customers.
+Tasty Times is a food service company that has a fleet of food trucks located in Indianapolis, IN. Each food has a unique menu offering different flavors of food for every taste bud. The company wants to record information about the fleet of trucks, the employees and the items sold to customers. Design a Database Management System for Tasty Times Food Service that shall help understand the most profitable items. Understand which city is the most profitable currently for Tasty Times’ business. Seek information on the most bankable employee in each city.Conduct thorough research on best products as Tasty Times moves to Tier 2 and Tier 3 cities
